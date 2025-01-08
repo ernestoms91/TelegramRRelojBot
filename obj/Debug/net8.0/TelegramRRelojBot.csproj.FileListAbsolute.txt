@@ -1,0 +1,17 @@
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\bin\Debug\net8.0\TelegramRRelojBot.exe
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\bin\Debug\net8.0\TelegramRRelojBot.dll
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.csproj.AssemblyReference.cache
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.AssemblyInfoInputs.cache
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.AssemblyInfo.cs
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.csproj.CoreCompileInputs.cache
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\Telegram.1DD52D07.Up2Date
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.dll
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\refint\TelegramRRelojBot.dll
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.pdb
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\bin\Debug\net8.0\TelegramRRelojBot.deps.json
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\bin\Debug\net8.0\TelegramRRelojBot.runtimeconfig.json
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\bin\Debug\net8.0\TelegramRRelojBot.pdb
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\TelegramRRelojBot.genruntimeconfig.cache
+C:\Users\Sunshine\source\repos\TelegramRRelojBot\TelegramRRelojBot\obj\Debug\net8.0\ref\TelegramRRelojBot.dll
